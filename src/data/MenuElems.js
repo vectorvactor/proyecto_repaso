@@ -11,7 +11,7 @@ const MenuElems = [
     {
         path: "/juana",
         defaultRoute:false,
-        text: "Página de Juana",
+        text: "Juana",
         componentSite: <MiPrimerComponenteClase nombre="Juana" apellido="Martinez" color="red" />
     },
     {
