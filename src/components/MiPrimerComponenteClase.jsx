@@ -13,7 +13,7 @@ export default class MiPrimerComponenteClase extends React.Component {
   render() {
     return (
       <div className={this.color} >  
-        <h2>Este es un componente de {this.nombre} {this.apellido}</h2> 
+        <h2>Este es el componente de {this.nombre} {this.apellido}</h2> 
       </div>
     );
   }
